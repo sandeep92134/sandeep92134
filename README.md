@@ -12,9 +12,13 @@
 
 - 🔭 I've worked on [Study of Immigration Data in the United States](https://github.com/sandeep92134/PROJECT-Data-Engineering-Capstone)
 
-- 💬 Ask me about **## Certified Data Engineer | Enthusiastic Learner | Open to Opportunities Welcome to my GitHub profile! I'm a passionate and enthusiastic in the field of Data Engineering, eager to contribute and grow in a professional environment. Below is a little bit about me and my skill set.**
+## 💬 Ask me about
+- Enthusiastic about advancing my expertise in Data Science and Engineering, I actively seek collaboration with industry experts in Data Analytics, Big Data Analytics, and associated technologies. Proficient in Python, Scala, SQL, Hadoop, Spark, AWS, Azure, Big Data, Cloud, Alteryx, Power BI, and Tableau, I am well-prepared to make meaningful contributions to data-driven initiatives.
+- With over 2 years of diverse experiences in non-tech roles, I bring a unique perspective and a dedicated commitment to bridging the gap between my past and future in the tech industry. As a certified Data Engineer from Udacity, I have a strong foundation in data engineering and analytics, using AWS, Python, Spark, SQL, and other tools and technologies. I also have a Bachelor of Technology in Civil Engineering from MDU Rohtak, which gives me a unique perspective and skill set to work with data in various domains and industries.
+- I have two years of experience as a Civil Engineer, where I worked with private organizations and contractors on various projects involving Auto CAD drawings, quality data generation, and land surveying. I have also completed online courses on search and sorting algorithms with Python from Codecademy, which enhanced my problem-solving and coding skills. I am passionate about data science and engineering, and I am looking for opportunities to apply my skills and knowledge to real-world challenges and create value for businesses.
 
-- 📫 How to reach me **sandeep92134@gmail.com**
+
+## 📫 How to reach me **sandeep92134@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep92134&show_icons=true&locale=en" alt="sandeep92134" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep92134&" alt="sandeep92134" /></p>
+
+## 🤝 Let's Connect!
+I'm always open to connecting with fellow data enthusiasts, mentors, and potential employers. Whether you have an opportunity, a project idea, or just want to chat about data engineering, I'd love to hear from you.
+
+Thank you for visiting my profile! Have a great day! 😊
